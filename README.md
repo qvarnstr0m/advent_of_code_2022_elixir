@@ -1,7 +1,9 @@
 # AdventOfCode2022Elixir
 
 **TODO: Add description**
-
+To use the script to fetch test data to /inputs dir(day 1 here):  
+mix fetch_input 1 YOUR_SESSION_COOKIE_VALUE
+  
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
